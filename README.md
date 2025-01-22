@@ -1,2 +1,10 @@
 # Home-automation-based-on-Blynk
-Home Automation using Arduino (picsimlab)and Blynk application
+Home Automation Project.
+
+Using:-
+Embedded C/C++, 
+Arduino IDE, 
+Picsimlab, 
+Eclipse MQTT, 
+Node-Red, 
+Blynk Application.
